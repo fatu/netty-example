@@ -1,0 +1,1 @@
+namespace java thrift.generated
